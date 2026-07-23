@@ -2,8 +2,8 @@ name: Watch Shaw Lido IMAX
 
 on:
   schedule:
-    # */30 during UTC hours 23,0-15 == every 30 min, 7am-11pm Singapore Time (UTC+8)
-    - cron: "*/30 23,0-15 * * *"
+    # */5 during UTC hours 23,0-15 == every 5 min, 7am-11pm Singapore Time (UTC+8)
+    - cron: "*/5 23,0-15 * * *"
   workflow_dispatch: {}
 
 permissions:

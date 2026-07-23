@@ -31,7 +31,7 @@ was reverse-engineered.
    Lido IMAX" -> Run workflow. After it finishes, your status page is live
    at `https://<you>.github.io/<repo>/`.
 
-After that it runs automatically every 30 minutes, 7am-11pm Singapore time
+After that it runs automatically every 5 minutes, 7am-11pm Singapore time
 (`.github/workflows/watch.yml`), commits the updated `seen_state.json` and
 `docs/index.html` back to the repo each run, and pushes an ntfy
 notification whenever a new Lido IMAX showtime appears or an existing

@@ -11,7 +11,7 @@ mirror involved -- for Lido IMAX showtimes, diffs against the previous run,
 and pushes an ntfy.sh notification the moment new showtimes appear (or, by
 default, also when an existing showtime's availability status changes).
 
-Meant to run on a schedule (cron / Task Scheduler) every ~30 min. Each run
+Meant to run on a schedule (cron / Task Scheduler) every ~5 min. Each run
 is a single process that exits; state persists in a small JSON file
 (seen_state.json) next to this script.
 
@@ -86,15 +86,15 @@ Setup (local, run-it-yourself instead):
      open https://ntfy.sh/<topic> in a browser or the ntfy app to watch it.
   3. Test it once manually:
        uv run watch_shaw_lido.py --once -v --topic john-shaw-lido-8f2k
-  4. Schedule it yourself (every 30 min, 7am-11pm SGT; uv reads the
+  4. Schedule it yourself (every 5 min, 7am-11pm SGT; uv reads the
      dependency block above itself, no separate install step):
        Linux/macOS (cron):
-         */30 7-23 * * * cd /path/to/project && uv run watch_shaw_lido.py --topic john-shaw-lido-8f2k
+         */5 7-23 * * * cd /path/to/project && uv run watch_shaw_lido.py --topic john-shaw-lido-8f2k
        Windows Task Scheduler:
          Program:  uv
          Args:     run watch_shaw_lido.py --topic john-shaw-lido-8f2k
          Start in: C:\\path\\to\\project
-         Trigger:  every 30 minutes, 7:00 AM - 11:00 PM
+         Trigger:  every 5 minutes, 7:00 AM - 11:00 PM
 """
 
 import argparse
