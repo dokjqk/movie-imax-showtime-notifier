@@ -1,0 +1,50 @@
+name: Watch Shaw Lido IMAX
+
+on:
+  schedule:
+    # */30 during UTC hours 23,0-15 == every 30 min, 7am-11pm Singapore Time (UTC+8)
+    - cron: "*/30 23,0-15 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: watch-shaw-lido
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+
+      - name: Run watcher
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: uv run watch_shaw_lido.py --topic "$NTFY_TOPIC"
+
+      - name: Commit updated state + status page
+        run: |
+          git config user.name "shaw-lido-watcher-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add seen_state.json docs/index.html
+          git diff --cached --quiet || git commit -m "Update showtime state [skip ci]"
+          git push
+
+      - name: Upload status page
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
