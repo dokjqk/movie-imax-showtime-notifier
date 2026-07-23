@@ -16,7 +16,7 @@ was reverse-engineered.
    ```
 
 2. **Pick an ntfy.sh topic** only you know (topics are unauthenticated --
-   anyone who knows the name can read it), e.g. `hendi-shaw-lido-8f2k`.
+   anyone who knows the name can read it), e.g. `john-shaw-lido-8f2k`.
    Open `https://ntfy.sh/<topic>` in a browser or the ntfy app to watch it.
 
 3. **Add the topic as a repo secret**: repo Settings -> Secrets and

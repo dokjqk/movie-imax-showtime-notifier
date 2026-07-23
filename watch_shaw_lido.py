@@ -82,17 +82,17 @@ publishes a status page via GitHub Pages): see README.md.
 
 Setup (local, run-it-yourself instead):
   1. Install uv if you don't have it already: https://docs.astral.sh/uv/
-  2. Pick an ntfy.sh topic only you know, e.g. "hendi-shaw-lido-8f2k", and
+  2. Pick an ntfy.sh topic only you know, e.g. "john-shaw-lido-8f2k", and
      open https://ntfy.sh/<topic> in a browser or the ntfy app to watch it.
   3. Test it once manually:
-       uv run watch_shaw_lido.py --once -v --topic hendi-shaw-lido-8f2k
+       uv run watch_shaw_lido.py --once -v --topic john-shaw-lido-8f2k
   4. Schedule it yourself (every 30 min, 7am-11pm SGT; uv reads the
      dependency block above itself, no separate install step):
        Linux/macOS (cron):
-         */30 7-23 * * * cd /path/to/project && uv run watch_shaw_lido.py --topic hendi-shaw-lido-8f2k
+         */30 7-23 * * * cd /path/to/project && uv run watch_shaw_lido.py --topic john-shaw-lido-8f2k
        Windows Task Scheduler:
          Program:  uv
-         Args:     run watch_shaw_lido.py --topic hendi-shaw-lido-8f2k
+         Args:     run watch_shaw_lido.py --topic john-shaw-lido-8f2k
          Start in: C:\\path\\to\\project
          Trigger:  every 30 minutes, 7:00 AM - 11:00 PM
 """
@@ -113,7 +113,7 @@ import requests
 API_BASE = "https://shaw.sg/internal"
 API_HEADERS = {"x-api-forward-to": "internal", "x-app": "PWSM"}
 
-NTFY_TOPIC = "k3cswRXfds12"
+NTFY_TOPIC = "TOPIC_REPLACE_ME"  # e.g. "john-shaw-lido-8f2k"; see README for setup
 NTFY_SERVER = "https://ntfy.sh"
 
 LIDO_LOCATION_ID = 1           # numeric id from GET /internal/get_simple_locations
