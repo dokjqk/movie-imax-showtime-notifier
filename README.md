@@ -37,7 +37,7 @@ After that it runs automatically every 30 minutes, 7am-11pm Singapore time
 notification whenever a new Lido IMAX showtime appears or an existing
 one's availability status changes.
 
-## Why a page can't just poll Shaw itself
+## Why a page can't just poll Shaw itself?
 
 Shaw's API doesn't send CORS headers, so a browser tab on any other origin
 (including a plain static page) is blocked from reading the response
