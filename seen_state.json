@@ -1,73 +1,13 @@
 {
-  "517011": {
-    "key": "517011",
-    "date": "2026-08-02",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "09:45",
-    "seats_available": 10,
-    "seats_total": 413,
-    "availability_pct": 2.4,
-    "status": "Sold Out",
-    "booking_url": "https://shaw.sg/showtimes/517011"
-  },
-  "517035": {
-    "key": "517035",
-    "date": "2026-08-02",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "13:30",
-    "seats_available": 4,
-    "seats_total": 413,
-    "availability_pct": 1.0,
-    "status": "Sold Out",
-    "booking_url": "https://shaw.sg/showtimes/517035"
-  },
-  "517016": {
-    "key": "517016",
-    "date": "2026-08-02",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "17:15",
-    "seats_available": 2,
-    "seats_total": 413,
-    "availability_pct": 0.5,
-    "status": "Sold Out",
-    "booking_url": "https://shaw.sg/showtimes/517016"
-  },
-  "517031": {
-    "key": "517031",
-    "date": "2026-08-02",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 5,
-    "seats_total": 413,
-    "availability_pct": 1.2,
-    "status": "Sold Out",
-    "booking_url": "https://shaw.sg/showtimes/517031"
-  },
-  "517013": {
-    "key": "517013",
-    "date": "2026-08-03",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "00:45",
-    "seats_available": 127,
-    "seats_total": 413,
-    "availability_pct": 30.8,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/517013"
-  },
   "517027": {
     "key": "517027",
     "date": "2026-08-03",
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "09:45",
-    "seats_available": 82,
+    "seats_available": 80,
     "seats_total": 413,
-    "availability_pct": 19.9,
+    "availability_pct": 19.4,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/517027"
   },
@@ -581,9 +521,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:30",
-    "seats_available": 207,
+    "seats_available": 208,
     "seats_total": 413,
-    "availability_pct": 50.1,
+    "availability_pct": 50.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/518905"
   }
