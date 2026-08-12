@@ -1,61 +1,13 @@
 {
-  "518903": {
-    "key": "518903",
-    "date": "2026-08-11",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "09:30",
-    "seats_available": 100,
-    "seats_total": 413,
-    "availability_pct": 24.2,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/518903"
-  },
-  "518890": {
-    "key": "518890",
-    "date": "2026-08-11",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "13:10",
-    "seats_available": 33,
-    "seats_total": 413,
-    "availability_pct": 8.0,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/518890"
-  },
-  "518908": {
-    "key": "518908",
-    "date": "2026-08-11",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "16:50",
-    "seats_available": 37,
-    "seats_total": 413,
-    "availability_pct": 9.0,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/518908"
-  },
-  "518892": {
-    "key": "518892",
-    "date": "2026-08-11",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "20:30",
-    "seats_available": 27,
-    "seats_total": 413,
-    "availability_pct": 6.5,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/518892"
-  },
   "518904": {
     "key": "518904",
     "date": "2026-08-12",
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "11:40",
-    "seats_available": 93,
+    "seats_available": 94,
     "seats_total": 413,
-    "availability_pct": 22.5,
+    "availability_pct": 22.8,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/518904"
   },
@@ -442,5 +394,17 @@
     "availability_pct": 24.0,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/521979"
+  },
+  "517716": {
+    "key": "517716",
+    "date": "2026-09-02",
+    "movie": "Katy Perry: The Lifetimes Tour - Live From Paris",
+    "venue": "Lido IMAX",
+    "time": "20:20",
+    "seats_available": 374,
+    "seats_total": 413,
+    "availability_pct": 90.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/517716"
   }
 }
