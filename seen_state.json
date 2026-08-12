@@ -1,25 +1,13 @@
 {
-  "518888": {
-    "key": "518888",
-    "date": "2026-08-12",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "15:20",
-    "seats_available": 25,
-    "seats_total": 413,
-    "availability_pct": 6.1,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/518888"
-  },
   "518905": {
     "key": "518905",
     "date": "2026-08-12",
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:30",
-    "seats_available": 47,
+    "seats_available": 45,
     "seats_total": 413,
-    "availability_pct": 11.4,
+    "availability_pct": 10.9,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/518905"
   },
@@ -29,9 +17,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "11:50",
-    "seats_available": 97,
+    "seats_available": 94,
     "seats_total": 413,
-    "availability_pct": 23.5,
+    "availability_pct": 22.8,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/522003"
   },
@@ -77,10 +65,10 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "11:50",
-    "seats_available": 105,
+    "seats_available": 103,
     "seats_total": 413,
-    "availability_pct": 25.4,
-    "status": "Available",
+    "availability_pct": 24.9,
+    "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/522001"
   },
   "521985": {
@@ -149,9 +137,9 @@
     "movie": "The End Of Oak Street",
     "venue": "Lido IMAX",
     "time": "15:30",
-    "seats_available": 365,
+    "seats_available": 363,
     "seats_total": 413,
-    "availability_pct": 88.4,
+    "availability_pct": 87.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/521982"
   },
@@ -341,9 +329,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "11:50",
-    "seats_available": 199,
+    "seats_available": 198,
     "seats_total": 413,
-    "availability_pct": 48.2,
+    "availability_pct": 47.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/522002"
   },
