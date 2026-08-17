@@ -65,9 +65,9 @@
     "movie": "The End Of Oak Street",
     "venue": "Lido IMAX",
     "time": "15:30",
-    "seats_available": 399,
+    "seats_available": 401,
     "seats_total": 413,
-    "availability_pct": 96.6,
+    "availability_pct": 97.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/522006"
   },
@@ -329,9 +329,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:00",
-    "seats_available": 265,
+    "seats_available": 267,
     "seats_total": 413,
-    "availability_pct": 64.2,
+    "availability_pct": 64.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/524038"
   },
