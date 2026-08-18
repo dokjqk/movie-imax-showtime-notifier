@@ -1,16 +1,4 @@
 {
-  "522007": {
-    "key": "522007",
-    "date": "2026-08-18",
-    "movie": "The End Of Oak Street",
-    "venue": "Lido IMAX",
-    "time": "15:30",
-    "seats_available": 391,
-    "seats_total": 413,
-    "availability_pct": 94.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/522007"
-  },
   "521995": {
     "key": "521995",
     "date": "2026-08-18",
@@ -173,9 +161,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "16:45",
-    "seats_available": 136,
+    "seats_available": 134,
     "seats_total": 413,
-    "availability_pct": 32.9,
+    "availability_pct": 32.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/524047"
   },
@@ -221,9 +209,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:00",
-    "seats_available": 54,
+    "seats_available": 52,
     "seats_total": 413,
-    "availability_pct": 13.1,
+    "availability_pct": 12.6,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/524043"
   },
@@ -257,9 +245,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "00:10",
-    "seats_available": 257,
+    "seats_available": 255,
     "seats_total": 413,
-    "availability_pct": 62.2,
+    "availability_pct": 61.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/524028"
   },
@@ -305,9 +293,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "20:30",
-    "seats_available": 102,
+    "seats_available": 96,
     "seats_total": 413,
-    "availability_pct": 24.7,
+    "availability_pct": 23.2,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/524031"
   },
@@ -341,9 +329,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:00",
-    "seats_available": 255,
+    "seats_available": 254,
     "seats_total": 413,
-    "availability_pct": 61.7,
+    "availability_pct": 61.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/524038"
   },
