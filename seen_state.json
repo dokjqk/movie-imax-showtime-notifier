@@ -1,25 +1,13 @@
 {
-  "521995": {
-    "key": "521995",
-    "date": "2026-08-18",
-    "movie": "The End Of Oak Street",
-    "venue": "Lido IMAX",
-    "time": "18:00",
-    "seats_available": 393,
-    "seats_total": 413,
-    "availability_pct": 95.2,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/521995"
-  },
   "521984": {
     "key": "521984",
     "date": "2026-08-18",
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "20:30",
-    "seats_available": 28,
+    "seats_available": 25,
     "seats_total": 413,
-    "availability_pct": 6.8,
+    "availability_pct": 6.1,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/521984"
   },
@@ -173,9 +161,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "20:30",
-    "seats_available": 54,
+    "seats_available": 53,
     "seats_total": 413,
-    "availability_pct": 13.1,
+    "availability_pct": 12.8,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/524035"
   },
@@ -221,9 +209,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "16:45",
-    "seats_available": 43,
+    "seats_available": 41,
     "seats_total": 413,
-    "availability_pct": 10.4,
+    "availability_pct": 9.9,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/524049"
   },
@@ -245,9 +233,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "00:10",
-    "seats_available": 253,
+    "seats_available": 251,
     "seats_total": 413,
-    "availability_pct": 61.3,
+    "availability_pct": 60.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/524028"
   },
@@ -473,9 +461,9 @@
     "movie": "Katy Perry: The Lifetimes Tour - Live From Paris",
     "venue": "Lido IMAX",
     "time": "15:40",
-    "seats_available": 376,
+    "seats_available": 378,
     "seats_total": 413,
-    "availability_pct": 91.0,
+    "availability_pct": 91.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/517715"
   }
