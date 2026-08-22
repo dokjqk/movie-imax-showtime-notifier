@@ -65,9 +65,9 @@
     "movie": "The End Of Oak Street",
     "venue": "Lido IMAX",
     "time": "10:30",
-    "seats_available": 369,
+    "seats_available": 367,
     "seats_total": 413,
-    "availability_pct": 89.3,
+    "availability_pct": 88.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/524052"
   },
