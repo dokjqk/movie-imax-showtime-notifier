@@ -1,16 +1,4 @@
 {
-  "524034": {
-    "key": "524034",
-    "date": "2026-08-25",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "20:30",
-    "seats_available": 60,
-    "seats_total": 413,
-    "availability_pct": 14.5,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/524034"
-  },
   "524050": {
     "key": "524050",
     "date": "2026-08-26",
@@ -29,9 +17,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:00",
-    "seats_available": 176,
+    "seats_available": 174,
     "seats_total": 413,
-    "availability_pct": 42.6,
+    "availability_pct": 42.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/524029"
   },
@@ -77,9 +65,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:40",
-    "seats_available": 237,
+    "seats_available": 235,
     "seats_total": 413,
-    "availability_pct": 57.4,
+    "availability_pct": 56.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/527046"
   },
@@ -209,9 +197,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:00",
-    "seats_available": 114,
+    "seats_available": 111,
     "seats_total": 413,
-    "availability_pct": 27.6,
+    "availability_pct": 26.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/527037"
   },
@@ -293,9 +281,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:40",
-    "seats_available": 323,
+    "seats_available": 322,
     "seats_total": 413,
-    "availability_pct": 78.2,
+    "availability_pct": 78.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/527049"
   },
@@ -389,9 +377,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:00",
-    "seats_available": 343,
+    "seats_available": 341,
     "seats_total": 413,
-    "availability_pct": 83.1,
+    "availability_pct": 82.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/527047"
   },
