@@ -1,16 +1,4 @@
 {
-  "524050": {
-    "key": "524050",
-    "date": "2026-08-26",
-    "movie": "The End Of Oak Street",
-    "venue": "Lido IMAX",
-    "time": "10:30",
-    "seats_available": 410,
-    "seats_total": 413,
-    "availability_pct": 99.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/524050"
-  },
   "524029": {
     "key": "524029",
     "date": "2026-08-26",
@@ -41,9 +29,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "20:30",
-    "seats_available": 79,
+    "seats_available": 70,
     "seats_total": 413,
-    "availability_pct": 19.1,
+    "availability_pct": 16.9,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/524033"
   },
@@ -245,9 +233,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "17:20",
-    "seats_available": 96,
+    "seats_available": 97,
     "seats_total": 413,
-    "availability_pct": 23.2,
+    "availability_pct": 23.5,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/527035"
   },
@@ -377,9 +365,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:00",
-    "seats_available": 339,
+    "seats_available": 337,
     "seats_total": 413,
-    "availability_pct": 82.1,
+    "availability_pct": 81.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/527047"
   },
