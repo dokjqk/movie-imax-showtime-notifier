@@ -1,64 +1,4 @@
 {
-  "527053": {
-    "key": "527053",
-    "date": "2026-08-28",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "10:00",
-    "seats_available": 216,
-    "seats_total": 413,
-    "availability_pct": 52.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/527053"
-  },
-  "527044": {
-    "key": "527044",
-    "date": "2026-08-28",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "13:40",
-    "seats_available": 110,
-    "seats_total": 413,
-    "availability_pct": 26.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/527044"
-  },
-  "527045": {
-    "key": "527045",
-    "date": "2026-08-28",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "17:20",
-    "seats_available": 59,
-    "seats_total": 413,
-    "availability_pct": 14.3,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/527045"
-  },
-  "527043": {
-    "key": "527043",
-    "date": "2026-08-28",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 31,
-    "seats_total": 413,
-    "availability_pct": 7.5,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/527043"
-  },
-  "527030": {
-    "key": "527030",
-    "date": "2026-08-29",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "00:40",
-    "seats_available": 226,
-    "seats_total": 413,
-    "availability_pct": 54.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/527030"
-  },
   "527052": {
     "key": "527052",
     "date": "2026-08-29",
@@ -197,9 +137,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "17:20",
-    "seats_available": 224,
+    "seats_available": 225,
     "seats_total": 413,
-    "availability_pct": 54.2,
+    "availability_pct": 54.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/527034"
   },
@@ -377,9 +317,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:40",
-    "seats_available": 370,
+    "seats_available": 368,
     "seats_total": 413,
-    "availability_pct": 89.6,
+    "availability_pct": 89.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529862"
   },
