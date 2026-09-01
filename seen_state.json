@@ -1,16 +1,4 @@
 {
-  "527051": {
-    "key": "527051",
-    "date": "2026-09-01",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "13:40",
-    "seats_available": 195,
-    "seats_total": 413,
-    "availability_pct": 47.2,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/527051"
-  },
   "527041": {
     "key": "527041",
     "date": "2026-09-01",
@@ -149,9 +137,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:40",
-    "seats_available": 307,
+    "seats_available": 305,
     "seats_total": 413,
-    "availability_pct": 74.3,
+    "availability_pct": 73.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529862"
   },
@@ -161,9 +149,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "17:20",
-    "seats_available": 239,
+    "seats_available": 237,
     "seats_total": 413,
-    "availability_pct": 57.9,
+    "availability_pct": 57.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529871"
   },
@@ -197,9 +185,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "11:55",
-    "seats_available": 180,
+    "seats_available": 178,
     "seats_total": 413,
-    "availability_pct": 43.6,
+    "availability_pct": 43.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529874"
   },
@@ -221,9 +209,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "18:45",
-    "seats_available": 146,
+    "seats_available": 144,
     "seats_total": 413,
-    "availability_pct": 35.4,
+    "availability_pct": 34.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529867"
   },
@@ -317,9 +305,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "17:20",
-    "seats_available": 350,
+    "seats_available": 351,
     "seats_total": 413,
-    "availability_pct": 84.7,
+    "availability_pct": 85.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529873"
   },
