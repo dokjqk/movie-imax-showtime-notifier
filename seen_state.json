@@ -1,16 +1,4 @@
 {
-  "529868": {
-    "key": "529868",
-    "date": "2026-09-04",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 66,
-    "seats_total": 413,
-    "availability_pct": 16.0,
-    "status": "Selling Fast",
-    "booking_url": "https://shaw.sg/showtimes/529868"
-  },
   "529876": {
     "key": "529876",
     "date": "2026-09-05",
@@ -65,9 +53,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "22:30",
-    "seats_available": 196,
+    "seats_available": 192,
     "seats_total": 413,
-    "availability_pct": 47.5,
+    "availability_pct": 46.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529878"
   },
@@ -77,9 +65,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "10:00",
-    "seats_available": 171,
+    "seats_available": 170,
     "seats_total": 413,
-    "availability_pct": 41.4,
+    "availability_pct": 41.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529869"
   },
@@ -173,9 +161,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "10:00",
-    "seats_available": 361,
+    "seats_available": 359,
     "seats_total": 413,
-    "availability_pct": 87.4,
+    "availability_pct": 86.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529870"
   },
@@ -293,9 +281,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 365,
+    "seats_available": 362,
     "seats_total": 413,
-    "availability_pct": 88.4,
+    "availability_pct": 87.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/532716"
   },
@@ -341,9 +329,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 293,
+    "seats_available": 291,
     "seats_total": 413,
-    "availability_pct": 70.9,
+    "availability_pct": 70.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/532715"
   },
