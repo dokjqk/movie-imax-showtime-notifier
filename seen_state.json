@@ -1,25 +1,13 @@
 {
-  "517715": {
-    "key": "517715",
-    "date": "2026-09-05",
-    "movie": "Katy Perry: The Lifetimes Tour - Live From Paris",
-    "venue": "Lido IMAX",
-    "time": "15:40",
-    "seats_available": 359,
-    "seats_total": 413,
-    "availability_pct": 86.9,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/517715"
-  },
   "529867": {
     "key": "529867",
     "date": "2026-09-05",
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "18:45",
-    "seats_available": 33,
+    "seats_available": 32,
     "seats_total": 413,
-    "availability_pct": 8.0,
+    "availability_pct": 7.7,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/529867"
   },
@@ -101,9 +89,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:40",
-    "seats_available": 307,
+    "seats_available": 305,
     "seats_total": 413,
-    "availability_pct": 74.3,
+    "availability_pct": 73.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/529882"
   },
