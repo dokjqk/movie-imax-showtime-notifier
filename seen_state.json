@@ -1,16 +1,4 @@
 {
-  "529856": {
-    "key": "529856",
-    "date": "2026-09-09",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 212,
-    "seats_total": 413,
-    "availability_pct": 51.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/529856"
-  },
   "532711": {
     "key": "532711",
     "date": "2026-09-10",
@@ -41,9 +29,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 221,
+    "seats_available": 219,
     "seats_total": 413,
-    "availability_pct": 53.5,
+    "availability_pct": 53.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/532716"
   },
@@ -113,9 +101,9 @@
     "movie": "Hope (KOR)",
     "venue": "Lido IMAX",
     "time": "10:35",
-    "seats_available": 398,
+    "seats_available": 399,
     "seats_total": 413,
-    "availability_pct": 96.4,
+    "availability_pct": 96.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533765"
   },
@@ -125,9 +113,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:00",
-    "seats_available": 286,
+    "seats_available": 285,
     "seats_total": 413,
-    "availability_pct": 69.2,
+    "availability_pct": 69.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533758"
   },
@@ -149,9 +137,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 326,
+    "seats_available": 322,
     "seats_total": 413,
-    "availability_pct": 78.9,
+    "availability_pct": 78.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533760"
   },
@@ -185,9 +173,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:00",
-    "seats_available": 312,
+    "seats_available": 311,
     "seats_total": 413,
-    "availability_pct": 75.5,
+    "availability_pct": 75.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533759"
   },
