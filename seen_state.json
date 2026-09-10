@@ -137,9 +137,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:00",
-    "seats_available": 191,
+    "seats_available": 189,
     "seats_total": 413,
-    "availability_pct": 46.2,
+    "availability_pct": 45.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533759"
   },
@@ -257,9 +257,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 391,
+    "seats_available": 389,
     "seats_total": 413,
-    "availability_pct": 94.7,
+    "availability_pct": 94.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533755"
   },
