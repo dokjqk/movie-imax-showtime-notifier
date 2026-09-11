@@ -101,9 +101,9 @@
     "movie": "Hope (KOR)",
     "venue": "Lido IMAX",
     "time": "10:35",
-    "seats_available": 396,
+    "seats_available": 393,
     "seats_total": 413,
-    "availability_pct": 95.9,
+    "availability_pct": 95.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533767"
   },
