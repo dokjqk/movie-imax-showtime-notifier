@@ -1,25 +1,13 @@
 {
-  "533756": {
-    "key": "533756",
-    "date": "2026-09-13",
-    "movie": "Hope (KOR)",
-    "venue": "Lido IMAX",
-    "time": "17:40",
-    "seats_available": 300,
-    "seats_total": 413,
-    "availability_pct": 72.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533756"
-  },
   "533763": {
     "key": "533763",
     "date": "2026-09-13",
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 227,
+    "seats_available": 217,
     "seats_total": 413,
-    "availability_pct": 55.0,
+    "availability_pct": 52.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533763"
   },
@@ -65,9 +53,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 326,
+    "seats_available": 324,
     "seats_total": 413,
-    "availability_pct": 78.9,
+    "availability_pct": 78.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533764"
   },
@@ -89,9 +77,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:00",
-    "seats_available": 357,
+    "seats_available": 356,
     "seats_total": 413,
-    "availability_pct": 86.4,
+    "availability_pct": 86.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533769"
   },
@@ -113,9 +101,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:05",
-    "seats_available": 346,
+    "seats_available": 343,
     "seats_total": 413,
-    "availability_pct": 83.8,
+    "availability_pct": 83.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533755"
   },
@@ -149,9 +137,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "21:25",
-    "seats_available": 347,
+    "seats_available": 345,
     "seats_total": 413,
-    "availability_pct": 84.0,
+    "availability_pct": 83.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533757"
   }
