@@ -5,9 +5,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:00",
-    "seats_available": 273,
+    "seats_available": 272,
     "seats_total": 413,
-    "availability_pct": 66.1,
+    "availability_pct": 65.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533769"
   },
