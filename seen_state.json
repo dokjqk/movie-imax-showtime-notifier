@@ -29,9 +29,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "13:00",
-    "seats_available": 385,
+    "seats_available": 384,
     "seats_total": 413,
-    "availability_pct": 93.2,
+    "availability_pct": 93.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535760"
   },
@@ -41,9 +41,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "15:25",
-    "seats_available": 345,
+    "seats_available": 344,
     "seats_total": 413,
-    "availability_pct": 83.5,
+    "availability_pct": 83.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535764"
   },
