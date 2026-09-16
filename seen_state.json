@@ -1,61 +1,13 @@
 {
-  "533770": {
-    "key": "533770",
-    "date": "2026-09-15",
-    "movie": "Hope (KOR)",
-    "venue": "Lido IMAX",
-    "time": "10:35",
-    "seats_available": 392,
-    "seats_total": 413,
-    "availability_pct": 94.9,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533770"
-  },
-  "533769": {
-    "key": "533769",
-    "date": "2026-09-15",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "14:00",
-    "seats_available": 222,
-    "seats_total": 413,
-    "availability_pct": 53.8,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533769"
-  },
-  "533751": {
-    "key": "533751",
-    "date": "2026-09-15",
-    "movie": "Hope (KOR)",
-    "venue": "Lido IMAX",
-    "time": "17:40",
-    "seats_available": 395,
-    "seats_total": 413,
-    "availability_pct": 95.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533751"
-  },
-  "533755": {
-    "key": "533755",
-    "date": "2026-09-15",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "21:05",
-    "seats_available": 236,
-    "seats_total": 413,
-    "availability_pct": 57.1,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533755"
-  },
   "533754": {
     "key": "533754",
     "date": "2026-09-16",
     "movie": "Hope (KOR)",
     "venue": "Lido IMAX",
     "time": "12:10",
-    "seats_available": 396,
+    "seats_available": 395,
     "seats_total": 413,
-    "availability_pct": 95.9,
+    "availability_pct": 95.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/533754"
   },
@@ -197,9 +149,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 363,
+    "seats_available": 360,
     "seats_total": 413,
-    "availability_pct": 87.9,
+    "availability_pct": 87.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535755"
   },
@@ -214,5 +166,17 @@
     "availability_pct": 95.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535756"
+  },
+  "526997": {
+    "key": "526997",
+    "date": "2026-10-07",
+    "movie": "Queen Budapest",
+    "venue": "Lido IMAX",
+    "time": "20:20",
+    "seats_available": 357,
+    "seats_total": 413,
+    "availability_pct": 86.4,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/526997"
   }
 }
