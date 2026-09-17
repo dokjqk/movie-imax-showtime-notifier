@@ -1,16 +1,4 @@
 {
-  "535757": {
-    "key": "535757",
-    "date": "2026-09-17",
-    "movie": "Resident Evil",
-    "venue": "Lido IMAX",
-    "time": "21:30",
-    "seats_available": 306,
-    "seats_total": 413,
-    "availability_pct": 74.1,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/535757"
-  },
   "535759": {
     "key": "535759",
     "date": "2026-09-18",
@@ -53,9 +41,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "18:15",
-    "seats_available": 355,
+    "seats_available": 357,
     "seats_total": 413,
-    "availability_pct": 86.0,
+    "availability_pct": 86.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535762"
   },
@@ -77,9 +65,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "23:05",
-    "seats_available": 383,
+    "seats_available": 381,
     "seats_total": 413,
-    "availability_pct": 92.7,
+    "availability_pct": 92.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535756"
   },
@@ -137,9 +125,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 356,
+    "seats_available": 353,
     "seats_total": 413,
-    "availability_pct": 86.2,
+    "availability_pct": 85.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538323"
   },
@@ -185,9 +173,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:35",
-    "seats_available": 303,
+    "seats_available": 301,
     "seats_total": 413,
-    "availability_pct": 73.4,
+    "availability_pct": 72.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538331"
   },
@@ -245,9 +233,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "15:25",
-    "seats_available": 401,
+    "seats_available": 399,
     "seats_total": 413,
-    "availability_pct": 97.1,
+    "availability_pct": 96.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538328"
   },
