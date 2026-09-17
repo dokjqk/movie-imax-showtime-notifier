@@ -1,40 +1,4 @@
 {
-  "533754": {
-    "key": "533754",
-    "date": "2026-09-16",
-    "movie": "Hope (KOR)",
-    "venue": "Lido IMAX",
-    "time": "12:10",
-    "seats_available": 399,
-    "seats_total": 413,
-    "availability_pct": 96.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533754"
-  },
-  "533768": {
-    "key": "533768",
-    "date": "2026-09-16",
-    "movie": "Hope (KOR)",
-    "venue": "Lido IMAX",
-    "time": "15:35",
-    "seats_available": 387,
-    "seats_total": 413,
-    "availability_pct": 93.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533768"
-  },
-  "533757": {
-    "key": "533757",
-    "date": "2026-09-16",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "21:25",
-    "seats_available": 205,
-    "seats_total": 413,
-    "availability_pct": 49.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/533757"
-  },
   "535758": {
     "key": "535758",
     "date": "2026-09-17",
@@ -101,9 +65,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "10:05",
-    "seats_available": 401,
+    "seats_available": 400,
     "seats_total": 413,
-    "availability_pct": 97.1,
+    "availability_pct": 96.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535759"
   },
@@ -113,9 +77,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "12:20",
-    "seats_available": 398,
+    "seats_available": 397,
     "seats_total": 413,
-    "availability_pct": 96.4,
+    "availability_pct": 96.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/535761"
   },
