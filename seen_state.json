@@ -1,16 +1,4 @@
 {
-  "538329": {
-    "key": "538329",
-    "date": "2026-09-19",
-    "movie": "Resident Evil",
-    "venue": "Lido IMAX",
-    "time": "10:05",
-    "seats_available": 378,
-    "seats_total": 413,
-    "availability_pct": 91.5,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538329"
-  },
   "538348": {
     "key": "538348",
     "date": "2026-09-19",
@@ -29,9 +17,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:35",
-    "seats_available": 117,
+    "seats_available": 115,
     "seats_total": 413,
-    "availability_pct": 28.3,
+    "availability_pct": 27.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538335"
   },
@@ -41,9 +29,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "18:15",
-    "seats_available": 276,
+    "seats_available": 274,
     "seats_total": 413,
-    "availability_pct": 66.8,
+    "availability_pct": 66.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538336"
   },
@@ -53,9 +41,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 284,
+    "seats_available": 283,
     "seats_total": 413,
-    "availability_pct": 68.8,
+    "availability_pct": 68.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538323"
   },
@@ -161,9 +149,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "15:25",
-    "seats_available": 368,
+    "seats_available": 369,
     "seats_total": 413,
-    "availability_pct": 89.1,
+    "availability_pct": 89.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538328"
   },
@@ -341,9 +329,9 @@
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "13:20",
-    "seats_available": 372,
+    "seats_available": 371,
     "seats_total": 413,
-    "availability_pct": 90.1,
+    "availability_pct": 89.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/536518"
   },
