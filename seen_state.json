@@ -1,16 +1,4 @@
 {
-  "538324": {
-    "key": "538324",
-    "date": "2026-09-20",
-    "movie": "Resident Evil",
-    "venue": "Lido IMAX",
-    "time": "20:40",
-    "seats_available": 328,
-    "seats_total": 413,
-    "availability_pct": 79.4,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538324"
-  },
   "538343": {
     "key": "538343",
     "date": "2026-09-21",
