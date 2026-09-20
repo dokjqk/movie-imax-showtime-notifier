@@ -5,9 +5,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 344,
+    "seats_available": 340,
     "seats_total": 413,
-    "availability_pct": 83.3,
+    "availability_pct": 82.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538324"
   },
@@ -53,9 +53,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "19:05",
-    "seats_available": 374,
+    "seats_available": 372,
     "seats_total": 413,
-    "availability_pct": 90.6,
+    "availability_pct": 90.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538337"
   },
