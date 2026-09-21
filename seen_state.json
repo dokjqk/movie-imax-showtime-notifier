@@ -173,9 +173,9 @@
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "23:45",
-    "seats_available": 345,
+    "seats_available": 338,
     "seats_total": 413,
-    "availability_pct": 83.5,
+    "availability_pct": 81.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/536516"
   },
