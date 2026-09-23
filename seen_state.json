@@ -5,9 +5,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "10:05",
-    "seats_available": 400,
+    "seats_available": 399,
     "seats_total": 413,
-    "availability_pct": 96.9,
+    "availability_pct": 96.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538344"
   },
@@ -101,9 +101,9 @@
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "20:00",
-    "seats_available": 164,
+    "seats_available": 162,
     "seats_total": 413,
-    "availability_pct": 39.7,
+    "availability_pct": 39.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/536515"
   },
