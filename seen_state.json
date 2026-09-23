@@ -1,64 +1,4 @@
 {
-  "538342": {
-    "key": "538342",
-    "date": "2026-09-22",
-    "movie": "Resident Evil",
-    "venue": "Lido IMAX",
-    "time": "10:05",
-    "seats_available": 395,
-    "seats_total": 413,
-    "availability_pct": 95.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538342"
-  },
-  "538338": {
-    "key": "538338",
-    "date": "2026-09-22",
-    "movie": "Resident Evil",
-    "venue": "Lido IMAX",
-    "time": "12:20",
-    "seats_available": 377,
-    "seats_total": 413,
-    "availability_pct": 91.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538338"
-  },
-  "538327": {
-    "key": "538327",
-    "date": "2026-09-22",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "14:35",
-    "seats_available": 269,
-    "seats_total": 413,
-    "availability_pct": 65.1,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538327"
-  },
-  "538334": {
-    "key": "538334",
-    "date": "2026-09-22",
-    "movie": "Resident Evil",
-    "venue": "Lido IMAX",
-    "time": "18:15",
-    "seats_available": 352,
-    "seats_total": 413,
-    "availability_pct": 85.2,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538334"
-  },
-  "538325": {
-    "key": "538325",
-    "date": "2026-09-22",
-    "movie": "Resident Evil",
-    "venue": "Lido IMAX",
-    "time": "20:40",
-    "seats_available": 308,
-    "seats_total": 413,
-    "availability_pct": 74.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538325"
-  },
   "538344": {
     "key": "538344",
     "date": "2026-09-23",
@@ -173,9 +113,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "09:40",
-    "seats_available": 391,
+    "seats_available": 390,
     "seats_total": 413,
-    "availability_pct": 94.7,
+    "availability_pct": 94.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/536520"
   },
@@ -394,5 +334,17 @@
     "availability_pct": 76.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/532727"
+  },
+  "532728": {
+    "key": "532728",
+    "date": "2026-10-14",
+    "movie": "Always Lalisa (KOR)",
+    "venue": "Lido IMAX",
+    "time": "19:00",
+    "seats_available": 353,
+    "seats_total": 413,
+    "availability_pct": 85.5,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/532728"
   }
 }
