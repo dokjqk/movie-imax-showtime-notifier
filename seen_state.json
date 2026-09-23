@@ -5,9 +5,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "14:35",
-    "seats_available": 273,
+    "seats_available": 267,
     "seats_total": 413,
-    "availability_pct": 66.1,
+    "availability_pct": 64.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538346"
   },
@@ -221,9 +221,9 @@
     "movie": "Marvel Studios\u2019 Avengers: Endgame Encore (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "19:45",
-    "seats_available": 385,
+    "seats_available": 384,
     "seats_total": 413,
-    "availability_pct": 93.2,
+    "availability_pct": 93.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538615"
   },
