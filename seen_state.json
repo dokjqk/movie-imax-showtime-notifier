@@ -1,16 +1,4 @@
 {
-  "536520": {
-    "key": "536520",
-    "date": "2026-09-25",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "09:40",
-    "seats_available": 322,
-    "seats_total": 413,
-    "availability_pct": 78.0,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/536520"
-  },
   "536518": {
     "key": "536518",
     "date": "2026-09-25",
@@ -29,9 +17,9 @@
     "movie": "Resident Evil",
     "venue": "Lido IMAX",
     "time": "17:20",
-    "seats_available": 366,
+    "seats_available": 364,
     "seats_total": 413,
-    "availability_pct": 88.6,
+    "availability_pct": 88.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/536517"
   },
@@ -65,9 +53,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "09:40",
-    "seats_available": 363,
+    "seats_available": 361,
     "seats_total": 413,
-    "availability_pct": 87.9,
+    "availability_pct": 87.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538620"
   },
