@@ -5,9 +5,9 @@
     "movie": "Marvel Studios\u2019 Avengers: Endgame Encore (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "16:35",
-    "seats_available": 374,
+    "seats_available": 372,
     "seats_total": 413,
-    "availability_pct": 90.6,
+    "availability_pct": 90.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/538614"
   },
@@ -47,18 +47,6 @@
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541151"
   },
-  "541161": {
-    "key": "541161",
-    "date": "2026-10-01",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "20:30",
-    "seats_available": 391,
-    "seats_total": 413,
-    "availability_pct": 94.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541161"
-  },
   "541159": {
     "key": "541159",
     "date": "2026-10-02",
@@ -70,18 +58,6 @@
     "availability_pct": 94.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541159"
-  },
-  "541155": {
-    "key": "541155",
-    "date": "2026-10-02",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "13:35",
-    "seats_available": 399,
-    "seats_total": 413,
-    "availability_pct": 96.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541155"
   },
   "541149": {
     "key": "541149",
@@ -95,30 +71,6 @@
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541149"
   },
-  "541164": {
-    "key": "541164",
-    "date": "2026-10-02",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "20:30",
-    "seats_available": 394,
-    "seats_total": 413,
-    "availability_pct": 95.4,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541164"
-  },
-  "541176": {
-    "key": "541176",
-    "date": "2026-10-02",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "23:30",
-    "seats_available": 403,
-    "seats_total": 413,
-    "availability_pct": 97.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541176"
-  },
   "541157": {
     "key": "541157",
     "date": "2026-10-03",
@@ -130,18 +82,6 @@
     "availability_pct": 84.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541157"
-  },
-  "541175": {
-    "key": "541175",
-    "date": "2026-10-03",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "13:35",
-    "seats_available": 398,
-    "seats_total": 413,
-    "availability_pct": 96.4,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541175"
   },
   "541156": {
     "key": "541156",
@@ -155,30 +95,6 @@
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541156"
   },
-  "541162": {
-    "key": "541162",
-    "date": "2026-10-03",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "20:30",
-    "seats_available": 395,
-    "seats_total": 413,
-    "availability_pct": 95.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541162"
-  },
-  "541168": {
-    "key": "541168",
-    "date": "2026-10-03",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "23:30",
-    "seats_available": 402,
-    "seats_total": 413,
-    "availability_pct": 97.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541168"
-  },
   "541158": {
     "key": "541158",
     "date": "2026-10-04",
@@ -190,18 +106,6 @@
     "availability_pct": 85.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541158"
-  },
-  "541172": {
-    "key": "541172",
-    "date": "2026-10-04",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "13:35",
-    "seats_available": 399,
-    "seats_total": 413,
-    "availability_pct": 96.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541172"
   },
   "541154": {
     "key": "541154",
@@ -215,18 +119,6 @@
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541154"
   },
-  "541163": {
-    "key": "541163",
-    "date": "2026-10-04",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "20:30",
-    "seats_available": 399,
-    "seats_total": 413,
-    "availability_pct": 96.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541163"
-  },
   "541150": {
     "key": "541150",
     "date": "2026-10-05",
@@ -239,18 +131,6 @@
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541150"
   },
-  "541171": {
-    "key": "541171",
-    "date": "2026-10-05",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "13:35",
-    "seats_available": 403,
-    "seats_total": 413,
-    "availability_pct": 97.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541171"
-  },
   "541153": {
     "key": "541153",
     "date": "2026-10-05",
@@ -262,18 +142,6 @@
     "availability_pct": 96.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541153"
-  },
-  "541174": {
-    "key": "541174",
-    "date": "2026-10-05",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "20:30",
-    "seats_available": 400,
-    "seats_total": 413,
-    "availability_pct": 96.9,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541174"
   },
   "541152": {
     "key": "541152",
@@ -299,42 +167,6 @@
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541166"
   },
-  "541170": {
-    "key": "541170",
-    "date": "2026-10-06",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "18:15",
-    "seats_available": 403,
-    "seats_total": 413,
-    "availability_pct": 97.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541170"
-  },
-  "541173": {
-    "key": "541173",
-    "date": "2026-10-06",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "21:15",
-    "seats_available": 403,
-    "seats_total": 413,
-    "availability_pct": 97.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541173"
-  },
-  "541169": {
-    "key": "541169",
-    "date": "2026-10-07",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "10:25",
-    "seats_available": 403,
-    "seats_total": 413,
-    "availability_pct": 97.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541169"
-  },
   "541177": {
     "key": "541177",
     "date": "2026-10-07",
@@ -346,18 +178,6 @@
     "availability_pct": 97.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541177"
-  },
-  "541167": {
-    "key": "541167",
-    "date": "2026-10-07",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "17:20",
-    "seats_available": 403,
-    "seats_total": 413,
-    "availability_pct": 97.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541167"
   },
   "526997": {
     "key": "526997",
