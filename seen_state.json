@@ -1,16 +1,4 @@
 {
-  "538618": {
-    "key": "538618",
-    "date": "2026-09-30",
-    "movie": "Marvel Studios\u2019 Avengers: Endgame Encore (IMAX LASER)",
-    "venue": "Lido IMAX",
-    "time": "12:40",
-    "seats_available": 382,
-    "seats_total": 413,
-    "availability_pct": 92.5,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/538618"
-  },
   "538614": {
     "key": "538614",
     "date": "2026-09-30",
@@ -53,9 +41,9 @@
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER )",
     "venue": "Lido IMAX",
     "time": "16:35",
-    "seats_available": 390,
+    "seats_available": 387,
     "seats_total": 413,
-    "availability_pct": 94.4,
+    "availability_pct": 93.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541151"
   },
@@ -77,9 +65,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "09:55",
-    "seats_available": 391,
+    "seats_available": 389,
     "seats_total": 413,
-    "availability_pct": 94.7,
+    "availability_pct": 94.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541159"
   },
