@@ -125,9 +125,9 @@
     "movie": "Digger",
     "venue": "Lido IMAX",
     "time": "13:35",
-    "seats_available": 379,
+    "seats_available": 378,
     "seats_total": 413,
-    "availability_pct": 91.8,
+    "availability_pct": 91.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541175"
   },
