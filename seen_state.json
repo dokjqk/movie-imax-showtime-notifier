@@ -17,9 +17,9 @@
     "movie": "Digger",
     "venue": "Lido IMAX",
     "time": "20:30",
-    "seats_available": 371,
+    "seats_available": 370,
     "seats_total": 413,
-    "availability_pct": 89.8,
+    "availability_pct": 89.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541164"
   },
@@ -173,9 +173,9 @@
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER )",
     "venue": "Lido IMAX",
     "time": "16:35",
-    "seats_available": 392,
+    "seats_available": 391,
     "seats_total": 413,
-    "availability_pct": 94.9,
+    "availability_pct": 94.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541153"
   },
