@@ -1,16 +1,4 @@
 {
-  "541157": {
-    "key": "541157",
-    "date": "2026-10-03",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "09:55",
-    "seats_available": 241,
-    "seats_total": 413,
-    "availability_pct": 58.4,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541157"
-  },
   "541175": {
     "key": "541175",
     "date": "2026-10-03",
@@ -113,9 +101,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "09:55",
-    "seats_available": 388,
+    "seats_available": 387,
     "seats_total": 413,
-    "availability_pct": 93.9,
+    "availability_pct": 93.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541150"
   },
