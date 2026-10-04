@@ -1,25 +1,13 @@
 {
-  "541172": {
-    "key": "541172",
-    "date": "2026-10-04",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "13:35",
-    "seats_available": 387,
-    "seats_total": 413,
-    "availability_pct": 93.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541172"
-  },
   "541154": {
     "key": "541154",
     "date": "2026-10-04",
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER )",
     "venue": "Lido IMAX",
     "time": "16:35",
-    "seats_available": 293,
+    "seats_available": 265,
     "seats_total": 413,
-    "availability_pct": 70.9,
+    "availability_pct": 64.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541154"
   },
@@ -29,9 +17,9 @@
     "movie": "Digger",
     "venue": "Lido IMAX",
     "time": "20:30",
-    "seats_available": 387,
+    "seats_available": 383,
     "seats_total": 413,
-    "availability_pct": 93.7,
+    "availability_pct": 92.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541163"
   },
@@ -41,9 +29,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "09:55",
-    "seats_available": 375,
+    "seats_available": 372,
     "seats_total": 413,
-    "availability_pct": 90.8,
+    "availability_pct": 90.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541150"
   },
@@ -65,9 +53,9 @@
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER )",
     "venue": "Lido IMAX",
     "time": "16:35",
-    "seats_available": 381,
+    "seats_available": 379,
     "seats_total": 413,
-    "availability_pct": 92.3,
+    "availability_pct": 91.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541153"
   },
