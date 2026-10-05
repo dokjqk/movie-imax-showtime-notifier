@@ -17,9 +17,9 @@
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER )",
     "venue": "Lido IMAX",
     "time": "14:20",
-    "seats_available": 379,
+    "seats_available": 377,
     "seats_total": 413,
-    "availability_pct": 91.8,
+    "availability_pct": 91.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541166"
   },
@@ -113,9 +113,9 @@
     "movie": "Always Lalisa (KOR)",
     "venue": "Lido IMAX",
     "time": "19:00",
-    "seats_available": 294,
+    "seats_available": 295,
     "seats_total": 413,
-    "availability_pct": 71.2,
+    "availability_pct": 71.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/532727"
   },
