@@ -1,25 +1,13 @@
 {
-  "541150": {
-    "key": "541150",
-    "date": "2026-10-05",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "09:55",
-    "seats_available": 358,
-    "seats_total": 413,
-    "availability_pct": 86.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541150"
-  },
   "541171": {
     "key": "541171",
     "date": "2026-10-05",
     "movie": "Digger",
     "venue": "Lido IMAX",
     "time": "13:35",
-    "seats_available": 398,
+    "seats_available": 396,
     "seats_total": 413,
-    "availability_pct": 96.4,
+    "availability_pct": 95.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541171"
   },
