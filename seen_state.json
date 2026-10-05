@@ -1,25 +1,13 @@
 {
-  "541171": {
-    "key": "541171",
-    "date": "2026-10-05",
-    "movie": "Digger",
-    "venue": "Lido IMAX",
-    "time": "13:35",
-    "seats_available": 399,
-    "seats_total": 413,
-    "availability_pct": 96.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/541171"
-  },
   "541153": {
     "key": "541153",
     "date": "2026-10-05",
     "movie": "Marvel Studios' Avengers: Endgame Encore (IMAX LASER )",
     "venue": "Lido IMAX",
     "time": "16:35",
-    "seats_available": 371,
+    "seats_available": 369,
     "seats_total": 413,
-    "availability_pct": 89.8,
+    "availability_pct": 89.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/541153"
   },
