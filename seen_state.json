@@ -77,9 +77,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "14:10",
-    "seats_available": 325,
+    "seats_available": 323,
     "seats_total": 413,
-    "availability_pct": 78.7,
+    "availability_pct": 78.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/547213"
   },
@@ -293,9 +293,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "17:50",
-    "seats_available": 401,
+    "seats_available": 400,
     "seats_total": 413,
-    "availability_pct": 97.1,
+    "availability_pct": 96.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/547202"
   },
