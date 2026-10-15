@@ -1,16 +1,4 @@
 {
-  "547203": {
-    "key": "547203",
-    "date": "2026-10-15",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "12:10",
-    "seats_available": 384,
-    "seats_total": 413,
-    "availability_pct": 93.0,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/547203"
-  },
   "547212": {
     "key": "547212",
     "date": "2026-10-15",
@@ -41,9 +29,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 335,
+    "seats_available": 336,
     "seats_total": 413,
-    "availability_pct": 81.1,
+    "availability_pct": 81.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548624"
   },
@@ -77,9 +65,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "17:20",
-    "seats_available": 382,
+    "seats_available": 381,
     "seats_total": 413,
-    "availability_pct": 92.5,
+    "availability_pct": 92.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548627"
   },
@@ -89,9 +77,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "21:00",
-    "seats_available": 384,
+    "seats_available": 381,
     "seats_total": 413,
-    "availability_pct": 93.0,
+    "availability_pct": 92.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548623"
   },
@@ -137,9 +125,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 366,
+    "seats_available": 367,
     "seats_total": 413,
-    "availability_pct": 88.6,
+    "availability_pct": 88.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548625"
   },
@@ -149,9 +137,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 364,
+    "seats_available": 362,
     "seats_total": 413,
-    "availability_pct": 88.1,
+    "availability_pct": 87.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548621"
   },
