@@ -1,64 +1,4 @@
 {
-  "547210": {
-    "key": "547210",
-    "date": "2026-10-16",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "11:40",
-    "seats_available": 398,
-    "seats_total": 413,
-    "availability_pct": 96.4,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/547210"
-  },
-  "547216": {
-    "key": "547216",
-    "date": "2026-10-16",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "14:30",
-    "seats_available": 371,
-    "seats_total": 413,
-    "availability_pct": 89.8,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/547216"
-  },
-  "548627": {
-    "key": "548627",
-    "date": "2026-10-16",
-    "movie": "Jailer 2 [TAM]",
-    "venue": "Lido IMAX",
-    "time": "17:20",
-    "seats_available": 342,
-    "seats_total": 413,
-    "availability_pct": 82.8,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/548627"
-  },
-  "548623": {
-    "key": "548623",
-    "date": "2026-10-16",
-    "movie": "Jailer 2 [TAM]",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 213,
-    "seats_total": 413,
-    "availability_pct": 51.6,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/548623"
-  },
-  "548628": {
-    "key": "548628",
-    "date": "2026-10-17",
-    "movie": "Jailer 2 [TAM]",
-    "venue": "Lido IMAX",
-    "time": "00:40",
-    "seats_available": 332,
-    "seats_total": 413,
-    "availability_pct": 80.4,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/548628"
-  },
   "547211": {
     "key": "547211",
     "date": "2026-10-17",
@@ -101,9 +41,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 240,
+    "seats_available": 238,
     "seats_total": 413,
-    "availability_pct": 58.1,
+    "availability_pct": 57.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548621"
   },
