@@ -5,9 +5,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 175,
+    "seats_available": 174,
     "seats_total": 413,
-    "availability_pct": 42.4,
+    "availability_pct": 42.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548621"
   },
@@ -53,9 +53,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 293,
+    "seats_available": 294,
     "seats_total": 413,
-    "availability_pct": 70.9,
+    "availability_pct": 71.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/548626"
   },
