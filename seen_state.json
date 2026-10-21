@@ -5,9 +5,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "20:40",
-    "seats_available": 351,
+    "seats_available": 353,
     "seats_total": 413,
-    "availability_pct": 85.0,
+    "availability_pct": 85.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/549265"
   },
@@ -89,9 +89,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 400,
+    "seats_available": 398,
     "seats_total": 413,
-    "availability_pct": 96.9,
+    "availability_pct": 96.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/550895"
   },
@@ -221,9 +221,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "19:50",
-    "seats_available": 398,
+    "seats_available": 396,
     "seats_total": 413,
-    "availability_pct": 96.4,
+    "availability_pct": 95.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551256"
   }
