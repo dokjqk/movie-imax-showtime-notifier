@@ -5,9 +5,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "23:25",
-    "seats_available": 381,
+    "seats_available": 384,
     "seats_total": 413,
-    "availability_pct": 92.3,
+    "availability_pct": 93.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/550896"
   },
@@ -89,9 +89,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:20",
-    "seats_available": 355,
+    "seats_available": 354,
     "seats_total": 413,
-    "availability_pct": 86.0,
+    "availability_pct": 85.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551255"
   },
