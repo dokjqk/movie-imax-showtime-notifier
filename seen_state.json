@@ -1,16 +1,4 @@
 {
-  "550893": {
-    "key": "550893",
-    "date": "2026-10-23",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "10:30",
-    "seats_available": 388,
-    "seats_total": 413,
-    "availability_pct": 93.9,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/550893"
-  },
   "550891": {
     "key": "550891",
     "date": "2026-10-23",
@@ -29,9 +17,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 395,
+    "seats_available": 393,
     "seats_total": 413,
-    "availability_pct": 95.6,
+    "availability_pct": 95.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/550895"
   },
@@ -41,9 +29,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "19:50",
-    "seats_available": 278,
+    "seats_available": 273,
     "seats_total": 413,
-    "availability_pct": 67.3,
+    "availability_pct": 66.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/550889"
   },
@@ -89,9 +77,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 363,
+    "seats_available": 361,
     "seats_total": 413,
-    "availability_pct": 87.9,
+    "availability_pct": 87.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551254"
   },
@@ -185,9 +173,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:20",
-    "seats_available": 401,
+    "seats_available": 400,
     "seats_total": 413,
-    "availability_pct": 97.1,
+    "availability_pct": 96.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/552818"
   },
@@ -317,9 +305,9 @@
     "movie": "GODZILLA MINUS ZERO - IMAX Premiere Screening (JPN)",
     "venue": "Lido IMAX",
     "time": "19:30",
-    "seats_available": 181,
+    "seats_available": 162,
     "seats_total": 413,
-    "availability_pct": 43.8,
+    "availability_pct": 39.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551625"
   }
