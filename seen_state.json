@@ -1,16 +1,4 @@
 {
-  "550895": {
-    "key": "550895",
-    "date": "2026-10-23",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "17:00",
-    "seats_available": 386,
-    "seats_total": 413,
-    "availability_pct": 93.5,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/550895"
-  },
   "550889": {
     "key": "550889",
     "date": "2026-10-23",
