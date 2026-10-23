@@ -65,9 +65,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "23:25",
-    "seats_available": 385,
+    "seats_available": 376,
     "seats_total": 413,
-    "availability_pct": 93.2,
+    "availability_pct": 91.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551260"
   },
@@ -269,9 +269,9 @@
     "movie": "GODZILLA MINUS ZERO - IMAX Premiere Screening (JPN)",
     "venue": "Lido IMAX",
     "time": "19:30",
-    "seats_available": 105,
+    "seats_available": 106,
     "seats_total": 413,
-    "availability_pct": 25.4,
+    "availability_pct": 25.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551625"
   }
