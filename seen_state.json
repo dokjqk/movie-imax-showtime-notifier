@@ -1,16 +1,4 @@
 {
-  "550889": {
-    "key": "550889",
-    "date": "2026-10-23",
-    "movie": "Jailer 2 [TAM]",
-    "venue": "Lido IMAX",
-    "time": "19:50",
-    "seats_available": 234,
-    "seats_total": 413,
-    "availability_pct": 56.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/550889"
-  },
   "550896": {
     "key": "550896",
     "date": "2026-10-23",
@@ -101,9 +89,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:20",
-    "seats_available": 362,
+    "seats_available": 360,
     "seats_total": 413,
-    "availability_pct": 87.7,
+    "availability_pct": 87.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551255"
   },
@@ -149,9 +137,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:20",
-    "seats_available": 400,
+    "seats_available": 398,
     "seats_total": 413,
-    "availability_pct": 96.9,
+    "availability_pct": 96.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/552818"
   },
