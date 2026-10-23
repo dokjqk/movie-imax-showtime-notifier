@@ -1,52 +1,4 @@
 {
-  "550894": {
-    "key": "550894",
-    "date": "2026-10-22",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "10:30",
-    "seats_available": 407,
-    "seats_total": 413,
-    "availability_pct": 98.5,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/550894"
-  },
-  "550897": {
-    "key": "550897",
-    "date": "2026-10-22",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "13:20",
-    "seats_available": 367,
-    "seats_total": 413,
-    "availability_pct": 88.9,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/550897"
-  },
-  "550892": {
-    "key": "550892",
-    "date": "2026-10-22",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "17:00",
-    "seats_available": 391,
-    "seats_total": 413,
-    "availability_pct": 94.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/550892"
-  },
-  "550890": {
-    "key": "550890",
-    "date": "2026-10-22",
-    "movie": "Jailer 2 [TAM]",
-    "venue": "Lido IMAX",
-    "time": "19:50",
-    "seats_available": 351,
-    "seats_total": 413,
-    "availability_pct": 85.0,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/550890"
-  },
   "550893": {
     "key": "550893",
     "date": "2026-10-23",
@@ -65,9 +17,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:20",
-    "seats_available": 380,
+    "seats_available": 381,
     "seats_total": 413,
-    "availability_pct": 92.0,
+    "availability_pct": 92.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/550891"
   },
@@ -89,9 +41,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "19:50",
-    "seats_available": 283,
+    "seats_available": 281,
     "seats_total": 413,
-    "availability_pct": 68.5,
+    "availability_pct": 68.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/550889"
   },
@@ -137,9 +89,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 366,
+    "seats_available": 363,
     "seats_total": 413,
-    "availability_pct": 88.6,
+    "availability_pct": 87.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551254"
   },
