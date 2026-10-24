@@ -5,9 +5,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "10:30",
-    "seats_available": 392,
+    "seats_available": 401,
     "seats_total": 413,
-    "availability_pct": 94.9,
+    "availability_pct": 97.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551253"
   },
@@ -41,9 +41,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "19:50",
-    "seats_available": 306,
+    "seats_available": 305,
     "seats_total": 413,
-    "availability_pct": 74.1,
+    "availability_pct": 73.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551258"
   },
@@ -101,9 +101,9 @@
     "movie": "Jailer 2 [TAM]",
     "venue": "Lido IMAX",
     "time": "19:50",
-    "seats_available": 390,
+    "seats_available": 389,
     "seats_total": 413,
-    "availability_pct": 94.4,
+    "availability_pct": 94.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/551256"
   },
@@ -257,9 +257,9 @@
     "movie": "GODZILLA MINUS ZERO - IMAX Premiere Screening (JPN)",
     "venue": "Lido IMAX",
     "time": "19:30",
-    "seats_available": 95,
+    "seats_available": 94,
     "seats_total": 413,
-    "availability_pct": 23.0,
+    "availability_pct": 22.8,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/551625"
   }
