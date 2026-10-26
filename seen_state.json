@@ -5,9 +5,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:20",
-    "seats_available": 383,
+    "seats_available": 380,
     "seats_total": 413,
-    "availability_pct": 92.7,
+    "availability_pct": 92.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/552818"
   },
@@ -17,9 +17,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 401,
+    "seats_available": 399,
     "seats_total": 413,
-    "availability_pct": 97.1,
+    "availability_pct": 96.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/552814"
   },
