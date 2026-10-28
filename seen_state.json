@@ -149,9 +149,9 @@
     "movie": "GODZILLA MINUS ZERO - IMAX Premiere Screening (JPN)",
     "venue": "Lido IMAX",
     "time": "19:30",
-    "seats_available": 50,
+    "seats_available": 47,
     "seats_total": 413,
-    "availability_pct": 12.1,
+    "availability_pct": 11.4,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/551625"
   }
