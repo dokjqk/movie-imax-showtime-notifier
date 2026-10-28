@@ -5,9 +5,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "17:00",
-    "seats_available": 400,
+    "seats_available": 398,
     "seats_total": 413,
-    "availability_pct": 96.9,
+    "availability_pct": 96.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/552819"
   },
@@ -137,9 +137,9 @@
     "movie": "GODZILLA MINUS ZERO - IMAX Premiere Screening (JPN)",
     "venue": "Lido IMAX",
     "time": "19:30",
-    "seats_available": 50,
+    "seats_available": 49,
     "seats_total": 413,
-    "availability_pct": 12.1,
+    "availability_pct": 11.9,
     "status": "Selling Fast",
     "booking_url": "https://shaw.sg/showtimes/551625"
   }
