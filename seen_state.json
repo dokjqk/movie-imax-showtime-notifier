@@ -1,25 +1,13 @@
 {
-  "553551": {
-    "key": "553551",
-    "date": "2026-10-29",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "10:35",
-    "seats_available": 411,
-    "seats_total": 413,
-    "availability_pct": 99.5,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/553551"
-  },
   "553556": {
     "key": "553556",
     "date": "2026-10-29",
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:25",
-    "seats_available": 385,
+    "seats_available": 387,
     "seats_total": 413,
-    "availability_pct": 93.2,
+    "availability_pct": 93.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/553556"
   },
@@ -53,9 +41,9 @@
     "movie": "Street Fighter",
     "venue": "Lido IMAX",
     "time": "10:35",
-    "seats_available": 403,
+    "seats_available": 402,
     "seats_total": 413,
-    "availability_pct": 97.6,
+    "availability_pct": 97.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/553553"
   },
