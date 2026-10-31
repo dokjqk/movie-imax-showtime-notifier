@@ -29,9 +29,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "20:00",
-    "seats_available": 373,
+    "seats_available": 371,
     "seats_total": 413,
-    "availability_pct": 90.3,
+    "availability_pct": 89.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/556323"
   },
@@ -245,9 +245,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "10:45",
-    "seats_available": 387,
+    "seats_available": 385,
     "seats_total": 413,
-    "availability_pct": 93.7,
+    "availability_pct": 93.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/554202"
   },
