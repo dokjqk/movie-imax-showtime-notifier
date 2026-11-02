@@ -1,16 +1,4 @@
 {
-  "556320": {
-    "key": "556320",
-    "date": "2026-11-02",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "10:35",
-    "seats_available": 413,
-    "seats_total": 413,
-    "availability_pct": 100.0,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/556320"
-  },
   "556328": {
     "key": "556328",
     "date": "2026-11-02",
@@ -209,9 +197,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "21:00",
-    "seats_available": 323,
+    "seats_available": 319,
     "seats_total": 413,
-    "availability_pct": 78.2,
+    "availability_pct": 77.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/554211"
   },
