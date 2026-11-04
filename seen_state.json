@@ -1,16 +1,4 @@
 {
-  "556329": {
-    "key": "556329",
-    "date": "2026-11-04",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "16:40",
-    "seats_available": 398,
-    "seats_total": 413,
-    "availability_pct": 96.4,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/556329"
-  },
   "551625": {
     "key": "551625",
     "date": "2026-11-04",
@@ -53,9 +41,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 260,
+    "seats_available": 258,
     "seats_total": 308,
-    "availability_pct": 84.4,
+    "availability_pct": 83.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/557478"
   },
@@ -101,9 +89,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 281,
+    "seats_available": 276,
     "seats_total": 308,
-    "availability_pct": 91.2,
+    "availability_pct": 89.6,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/557474"
   },
