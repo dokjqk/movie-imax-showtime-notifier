@@ -1,52 +1,4 @@
 {
-  "556325": {
-    "key": "556325",
-    "date": "2026-11-03",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "10:35",
-    "seats_available": 410,
-    "seats_total": 413,
-    "availability_pct": 99.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/556325"
-  },
-  "556324": {
-    "key": "556324",
-    "date": "2026-11-03",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "13:25",
-    "seats_available": 372,
-    "seats_total": 413,
-    "availability_pct": 90.1,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/556324"
-  },
-  "556327": {
-    "key": "556327",
-    "date": "2026-11-03",
-    "movie": "Street Fighter",
-    "venue": "Lido IMAX",
-    "time": "17:10",
-    "seats_available": 405,
-    "seats_total": 413,
-    "availability_pct": 98.1,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/556327"
-  },
-  "556318": {
-    "key": "556318",
-    "date": "2026-11-03",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "20:00",
-    "seats_available": 364,
-    "seats_total": 413,
-    "availability_pct": 88.1,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/556318"
-  },
   "556334": {
     "key": "556334",
     "date": "2026-11-04",
@@ -185,9 +137,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "13:50",
-    "seats_available": 272,
+    "seats_available": 270,
     "seats_total": 413,
-    "availability_pct": 65.9,
+    "availability_pct": 65.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/554224"
   },
@@ -245,9 +197,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "10:45",
-    "seats_available": 384,
+    "seats_available": 382,
     "seats_total": 413,
-    "availability_pct": 93.0,
+    "availability_pct": 92.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/554206"
   },
