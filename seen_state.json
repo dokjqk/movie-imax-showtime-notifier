@@ -1,25 +1,13 @@
 {
-  "554232": {
-    "key": "554232",
-    "date": "2026-11-05",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "13:50",
-    "seats_available": 297,
-    "seats_total": 413,
-    "availability_pct": 71.9,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/554232"
-  },
   "557478": {
     "key": "557478",
     "date": "2026-11-05",
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 190,
+    "seats_available": 189,
     "seats_total": 308,
-    "availability_pct": 61.7,
+    "availability_pct": 61.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/557478"
   },
@@ -29,9 +17,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "21:00",
-    "seats_available": 234,
+    "seats_available": 233,
     "seats_total": 413,
-    "availability_pct": 56.7,
+    "availability_pct": 56.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/554215"
   },
