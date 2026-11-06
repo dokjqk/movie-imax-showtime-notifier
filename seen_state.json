@@ -17,9 +17,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 127,
+    "seats_available": 131,
     "seats_total": 308,
-    "availability_pct": 41.2,
+    "availability_pct": 42.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/557474"
   },
@@ -41,9 +41,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "00:05",
-    "seats_available": 233,
+    "seats_available": 231,
     "seats_total": 308,
-    "availability_pct": 75.6,
+    "availability_pct": 75.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/557476"
   },
@@ -305,9 +305,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "21:00",
-    "seats_available": 385,
+    "seats_available": 381,
     "seats_total": 413,
-    "availability_pct": 93.2,
+    "availability_pct": 92.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/554198"
   }
