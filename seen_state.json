@@ -5,9 +5,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "10:45",
-    "seats_available": 354,
+    "seats_available": 351,
     "seats_total": 413,
-    "availability_pct": 85.7,
+    "availability_pct": 85.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/560886"
   },
@@ -17,9 +17,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "13:50",
-    "seats_available": 229,
+    "seats_available": 224,
     "seats_total": 413,
-    "availability_pct": 55.4,
+    "availability_pct": 54.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/560894"
   },
