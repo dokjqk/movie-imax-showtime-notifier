@@ -1,16 +1,4 @@
 {
-  "560876": {
-    "key": "560876",
-    "date": "2026-11-14",
-    "movie": "Ramayana: Rise of a Legend  [HINDI]",
-    "venue": "Lido IMAX",
-    "time": "16:55",
-    "seats_available": 0,
-    "seats_total": 308,
-    "availability_pct": 0.0,
-    "status": "Sold Out",
-    "booking_url": "https://shaw.sg/showtimes/560876"
-  },
   "560888": {
     "key": "560888",
     "date": "2026-11-14",
@@ -29,9 +17,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "00:05",
-    "seats_available": 280,
+    "seats_available": 277,
     "seats_total": 308,
-    "availability_pct": 90.9,
+    "availability_pct": 89.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/560890"
   },
