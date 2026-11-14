@@ -1,64 +1,4 @@
 {
-  "559063": {
-    "key": "559063",
-    "date": "2026-11-13",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "10:45",
-    "seats_available": 389,
-    "seats_total": 413,
-    "availability_pct": 94.2,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/559063"
-  },
-  "559058": {
-    "key": "559058",
-    "date": "2026-11-13",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "13:50",
-    "seats_available": 321,
-    "seats_total": 413,
-    "availability_pct": 77.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/559058"
-  },
-  "559060": {
-    "key": "559060",
-    "date": "2026-11-13",
-    "movie": "Ramayana: Rise of a Legend  [HINDI]",
-    "venue": "Lido IMAX",
-    "time": "16:55",
-    "seats_available": 151,
-    "seats_total": 308,
-    "availability_pct": 49.0,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/559060"
-  },
-  "559061": {
-    "key": "559061",
-    "date": "2026-11-13",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 189,
-    "seats_total": 413,
-    "availability_pct": 45.8,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/559061"
-  },
-  "559062": {
-    "key": "559062",
-    "date": "2026-11-14",
-    "movie": "Ramayana: Rise of a Legend  [HINDI]",
-    "venue": "Lido IMAX",
-    "time": "00:05",
-    "seats_available": 235,
-    "seats_total": 308,
-    "availability_pct": 76.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/559062"
-  },
   "560886": {
     "key": "560886",
     "date": "2026-11-14",
@@ -137,9 +77,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "13:50",
-    "seats_available": 311,
+    "seats_available": 309,
     "seats_total": 413,
-    "availability_pct": 75.3,
+    "availability_pct": 74.8,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/560895"
   },
