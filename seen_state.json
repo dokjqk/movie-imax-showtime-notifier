@@ -5,9 +5,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 231,
+    "seats_available": 230,
     "seats_total": 308,
-    "availability_pct": 75.0,
+    "availability_pct": 74.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/560883"
   },
@@ -149,9 +149,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 289,
+    "seats_available": 285,
     "seats_total": 308,
-    "availability_pct": 93.8,
+    "availability_pct": 92.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/562448"
   },
