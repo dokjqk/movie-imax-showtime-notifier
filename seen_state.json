@@ -1,16 +1,4 @@
 {
-  "560893": {
-    "key": "560893",
-    "date": "2026-11-18",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "13:50",
-    "seats_available": 362,
-    "seats_total": 413,
-    "availability_pct": 87.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/560893"
-  },
   "560880": {
     "key": "560880",
     "date": "2026-11-18",
@@ -53,9 +41,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "13:50",
-    "seats_available": 384,
+    "seats_available": 382,
     "seats_total": 413,
-    "availability_pct": 93.0,
+    "availability_pct": 92.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/562449"
   },
