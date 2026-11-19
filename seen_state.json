@@ -89,9 +89,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "13:50",
-    "seats_available": 393,
+    "seats_available": 391,
     "seats_total": 413,
-    "availability_pct": 95.2,
+    "availability_pct": 94.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564923"
   },
@@ -293,9 +293,9 @@
     "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "13:40",
-    "seats_available": 399,
+    "seats_available": 401,
     "seats_total": 413,
-    "availability_pct": 96.6,
+    "availability_pct": 97.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564693"
   },
