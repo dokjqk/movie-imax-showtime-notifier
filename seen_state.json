@@ -29,9 +29,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 223,
+    "seats_available": 224,
     "seats_total": 308,
-    "availability_pct": 72.4,
+    "availability_pct": 72.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/562446"
   },
@@ -106,5 +106,101 @@
     "availability_pct": 92.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/562443"
+  },
+  "563126": {
+    "key": "563126",
+    "date": "2026-12-09",
+    "movie": "Dune (Re-issue)",
+    "venue": "Lido IMAX",
+    "time": "10:00",
+    "seats_available": 401,
+    "seats_total": 413,
+    "availability_pct": 97.1,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563126"
+  },
+  "563124": {
+    "key": "563124",
+    "date": "2026-12-09",
+    "movie": "Dune Part Two (Re-Issue)",
+    "venue": "Lido IMAX",
+    "time": "13:35",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563124"
+  },
+  "563125": {
+    "key": "563125",
+    "date": "2026-12-09",
+    "movie": "Dune (Re-issue)",
+    "venue": "Lido IMAX",
+    "time": "17:25",
+    "seats_available": 401,
+    "seats_total": 413,
+    "availability_pct": 97.1,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563125"
+  },
+  "563123": {
+    "key": "563123",
+    "date": "2026-12-09",
+    "movie": "Dune Part Two (Re-Issue)",
+    "venue": "Lido IMAX",
+    "time": "21:00",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563123"
+  },
+  "563165": {
+    "key": "563165",
+    "date": "2026-12-10",
+    "movie": "Dune (Re-issue)",
+    "venue": "Lido IMAX",
+    "time": "10:00",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563165"
+  },
+  "563172": {
+    "key": "563172",
+    "date": "2026-12-10",
+    "movie": "Dune Part Two (Re-Issue)",
+    "venue": "Lido IMAX",
+    "time": "13:35",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563172"
+  },
+  "563185": {
+    "key": "563185",
+    "date": "2026-12-10",
+    "movie": "Dune (Re-issue)",
+    "venue": "Lido IMAX",
+    "time": "17:25",
+    "seats_available": 401,
+    "seats_total": 413,
+    "availability_pct": 97.1,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563185"
+  },
+  "563163": {
+    "key": "563163",
+    "date": "2026-12-10",
+    "movie": "Dune Part Two (Re-Issue)",
+    "venue": "Lido IMAX",
+    "time": "21:00",
+    "seats_available": 401,
+    "seats_total": 413,
+    "availability_pct": 97.1,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563163"
   }
 }
