@@ -161,9 +161,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 249,
+    "seats_available": 247,
     "seats_total": 308,
-    "availability_pct": 80.8,
+    "availability_pct": 80.2,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564919"
   },
@@ -317,9 +317,9 @@
     "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "20:00",
-    "seats_available": 398,
+    "seats_available": 397,
     "seats_total": 413,
-    "availability_pct": 96.4,
+    "availability_pct": 96.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564692"
   },
