@@ -17,9 +17,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "21:00",
-    "seats_available": 358,
+    "seats_available": 357,
     "seats_total": 413,
-    "availability_pct": 86.7,
+    "availability_pct": 86.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/562444"
   },
@@ -82,6 +82,54 @@
     "availability_pct": 91.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/562443"
+  },
+  "564691": {
+    "key": "564691",
+    "date": "2026-11-25",
+    "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
+    "venue": "Lido IMAX",
+    "time": "10:30",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/564691"
+  },
+  "564693": {
+    "key": "564693",
+    "date": "2026-11-25",
+    "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
+    "venue": "Lido IMAX",
+    "time": "13:40",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/564693"
+  },
+  "564694": {
+    "key": "564694",
+    "date": "2026-11-25",
+    "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
+    "venue": "Lido IMAX",
+    "time": "16:50",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/564694"
+  },
+  "564692": {
+    "key": "564692",
+    "date": "2026-11-25",
+    "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
+    "venue": "Lido IMAX",
+    "time": "20:00",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/564692"
   },
   "563126": {
     "key": "563126",
