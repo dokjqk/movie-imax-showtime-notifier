@@ -53,9 +53,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "13:50",
-    "seats_available": 329,
+    "seats_available": 328,
     "seats_total": 413,
-    "availability_pct": 79.7,
+    "availability_pct": 79.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564923"
   },
@@ -653,9 +653,9 @@
     "movie": "Dune Part Two (Re-Issue)",
     "venue": "Lido IMAX",
     "time": "13:35",
-    "seats_available": 395,
+    "seats_available": 394,
     "seats_total": 413,
-    "availability_pct": 95.6,
+    "availability_pct": 95.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563124"
   },
