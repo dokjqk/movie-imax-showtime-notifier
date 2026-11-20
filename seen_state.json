@@ -1,52 +1,4 @@
 {
-  "562442": {
-    "key": "562442",
-    "date": "2026-11-19",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "10:45",
-    "seats_available": 392,
-    "seats_total": 413,
-    "availability_pct": 94.9,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/562442"
-  },
-  "562449": {
-    "key": "562449",
-    "date": "2026-11-19",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "13:50",
-    "seats_available": 347,
-    "seats_total": 413,
-    "availability_pct": 84.0,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/562449"
-  },
-  "562446": {
-    "key": "562446",
-    "date": "2026-11-19",
-    "movie": "Ramayana: Rise of a Legend  [HINDI]",
-    "venue": "Lido IMAX",
-    "time": "16:55",
-    "seats_available": 195,
-    "seats_total": 308,
-    "availability_pct": 63.3,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/562446"
-  },
-  "562444": {
-    "key": "562444",
-    "date": "2026-11-19",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 313,
-    "seats_total": 413,
-    "availability_pct": 75.8,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/562444"
-  },
   "562445": {
     "key": "562445",
     "date": "2026-11-20",
@@ -89,9 +41,9 @@
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "21:00",
-    "seats_available": 305,
+    "seats_available": 299,
     "seats_total": 413,
-    "availability_pct": 73.8,
+    "availability_pct": 72.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/562447"
   },
@@ -137,9 +89,9 @@
     "movie": "Ramayana: Rise of a Legend  [HINDI]",
     "venue": "Lido IMAX",
     "time": "16:55",
-    "seats_available": 161,
+    "seats_available": 153,
     "seats_total": 308,
-    "availability_pct": 52.3,
+    "availability_pct": 49.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564914"
   },
@@ -802,5 +754,41 @@
     "availability_pct": 95.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563163"
+  },
+  "563188": {
+    "key": "563188",
+    "date": "2026-12-11",
+    "movie": "Dune (Re-issue)",
+    "venue": "Lido IMAX",
+    "time": "11:55",
+    "seats_available": 396,
+    "seats_total": 413,
+    "availability_pct": 95.9,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563188"
+  },
+  "563173": {
+    "key": "563173",
+    "date": "2026-12-11",
+    "movie": "Dune Part Two (Re-Issue)",
+    "venue": "Lido IMAX",
+    "time": "15:30",
+    "seats_available": 389,
+    "seats_total": 413,
+    "availability_pct": 94.2,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563173"
+  },
+  "563174": {
+    "key": "563174",
+    "date": "2026-12-11",
+    "movie": "Dune (Re-issue)",
+    "venue": "Lido IMAX",
+    "time": "23:10",
+    "seats_available": 403,
+    "seats_total": 413,
+    "availability_pct": 97.6,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563174"
   }
 }
