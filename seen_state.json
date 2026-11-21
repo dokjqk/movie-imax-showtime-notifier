@@ -1,16 +1,4 @@
 {
-  "564913": {
-    "key": "564913",
-    "date": "2026-11-21",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 260,
-    "seats_total": 413,
-    "availability_pct": 63.0,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/564913"
-  },
   "564912": {
     "key": "564912",
     "date": "2026-11-22",
@@ -425,9 +413,9 @@
     "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "20:00",
-    "seats_available": 403,
+    "seats_available": 401,
     "seats_total": 413,
-    "availability_pct": 97.6,
+    "availability_pct": 97.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564703"
   },
