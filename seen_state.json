@@ -593,9 +593,9 @@
     "movie": "Dune (Re-issue)",
     "venue": "Lido IMAX",
     "time": "10:00",
-    "seats_available": 384,
+    "seats_available": 382,
     "seats_total": 413,
-    "availability_pct": 93.0,
+    "availability_pct": 92.5,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563183"
   },
@@ -605,9 +605,9 @@
     "movie": "Dune Part Two (Re-Issue)",
     "venue": "Lido IMAX",
     "time": "13:35",
-    "seats_available": 361,
+    "seats_available": 359,
     "seats_total": 413,
-    "availability_pct": 87.4,
+    "availability_pct": 86.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563171"
   },
