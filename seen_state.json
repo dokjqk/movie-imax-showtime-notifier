@@ -5,9 +5,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "13:30",
-    "seats_available": 392,
+    "seats_available": 391,
     "seats_total": 413,
-    "availability_pct": 94.9,
+    "availability_pct": 94.7,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564911"
   },
@@ -725,9 +725,9 @@
     "movie": "Dune: Part Three",
     "venue": "Lido IMAX",
     "time": "18:20",
-    "seats_available": 177,
+    "seats_available": 175,
     "seats_total": 413,
-    "availability_pct": 42.9,
+    "availability_pct": 42.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563169"
   },
