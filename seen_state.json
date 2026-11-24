@@ -1,61 +1,13 @@
 {
-  "564921": {
-    "key": "564921",
-    "date": "2026-11-23",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "10:25",
-    "seats_available": 385,
-    "seats_total": 413,
-    "availability_pct": 93.2,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/564921"
-  },
-  "564908": {
-    "key": "564908",
-    "date": "2026-11-23",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "13:30",
-    "seats_available": 383,
-    "seats_total": 413,
-    "availability_pct": 92.7,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/564908"
-  },
-  "564910": {
-    "key": "564910",
-    "date": "2026-11-23",
-    "movie": "The Odyssey",
-    "venue": "Lido IMAX",
-    "time": "17:15",
-    "seats_available": 356,
-    "seats_total": 413,
-    "availability_pct": 86.2,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/564910"
-  },
-  "564916": {
-    "key": "564916",
-    "date": "2026-11-23",
-    "movie": "Godzilla Minus Zero [JPN]",
-    "venue": "Lido IMAX",
-    "time": "21:00",
-    "seats_available": 349,
-    "seats_total": 413,
-    "availability_pct": 84.5,
-    "status": "Available",
-    "booking_url": "https://shaw.sg/showtimes/564916"
-  },
   "564924": {
     "key": "564924",
     "date": "2026-11-24",
     "movie": "Godzilla Minus Zero [JPN]",
     "venue": "Lido IMAX",
     "time": "10:25",
-    "seats_available": 393,
+    "seats_available": 392,
     "seats_total": 413,
-    "availability_pct": 95.2,
+    "availability_pct": 94.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564924"
   },
@@ -77,9 +29,9 @@
     "movie": "The Odyssey",
     "venue": "Lido IMAX",
     "time": "17:15",
-    "seats_available": 401,
+    "seats_available": 400,
     "seats_total": 413,
-    "availability_pct": 97.1,
+    "availability_pct": 96.9,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564915"
   },
@@ -778,5 +730,29 @@
     "availability_pct": 92.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563180"
+  },
+  "563169": {
+    "key": "563169",
+    "date": "2026-12-15",
+    "movie": "Dune: Part Three",
+    "venue": "Lido IMAX",
+    "time": "18:20",
+    "seats_available": 182,
+    "seats_total": 413,
+    "availability_pct": 44.1,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563169"
+  },
+  "563170": {
+    "key": "563170",
+    "date": "2026-12-15",
+    "movie": "Dune: Part Three",
+    "venue": "Lido IMAX",
+    "time": "21:40",
+    "seats_available": 191,
+    "seats_total": 413,
+    "availability_pct": 46.2,
+    "status": "Available",
+    "booking_url": "https://shaw.sg/showtimes/563170"
   }
 }
