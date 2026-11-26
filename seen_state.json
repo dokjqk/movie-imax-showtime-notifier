@@ -5,9 +5,9 @@
     "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "13:40",
-    "seats_available": 407,
+    "seats_available": 405,
     "seats_total": 413,
-    "availability_pct": 98.5,
+    "availability_pct": 98.1,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564718"
   },
@@ -653,9 +653,9 @@
     "movie": "Dune: Part Three",
     "venue": "Lido IMAX",
     "time": "08:00",
-    "seats_available": 337,
+    "seats_available": 336,
     "seats_total": 413,
-    "availability_pct": 81.6,
+    "availability_pct": 81.4,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563178"
   },
