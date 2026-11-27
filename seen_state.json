@@ -617,9 +617,9 @@
     "movie": "Dune: Part Three",
     "venue": "Lido IMAX",
     "time": "14:40",
-    "seats_available": 253,
+    "seats_available": 249,
     "seats_total": 413,
-    "availability_pct": 61.3,
+    "availability_pct": 60.3,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/563168"
   },
