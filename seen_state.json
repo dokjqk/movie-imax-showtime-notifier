@@ -5,9 +5,9 @@
     "movie": "The Further Mis-Adventures of Cliff Booth (IMAX LASER)",
     "venue": "Lido IMAX",
     "time": "16:50",
-    "seats_available": 399,
+    "seats_available": 409,
     "seats_total": 413,
-    "availability_pct": 96.6,
+    "availability_pct": 99.0,
     "status": "Available",
     "booking_url": "https://shaw.sg/showtimes/564705"
   },
